@@ -7,7 +7,7 @@ import pandas as pd
 
 
 from locations import LOCATIONS
-from download_data import translate_lat_to_geos5_native, translate_lon_to_geos5_native
+from download_temperature_data import translate_lat_to_geos5_native, translate_lon_to_geos5_native
 
 """
 
